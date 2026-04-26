@@ -1,9 +1,9 @@
 """
+python src/delimetr.py
+
 Операции с системами исчисления
 Далее СИ - система исчисления
 """
-
-import decimal
 
 
 def from_decimal_to_any(a: int, base: int) -> int:
